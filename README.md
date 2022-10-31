@@ -1,3 +1,5 @@
+![latest build](https://github.com/temporary-github-user/disk-writer/actions/workflows/test.yml/badge.svg)
+
 # Goal
 
 > Detect locally mounted disk (make sure it is local) with at least X MB free space, create Z files of size Y, run Z “dd” processes which where each process will fill the selected file with Data and print time took to complete the work.
